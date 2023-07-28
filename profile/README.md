@@ -1,9 +1,7 @@
-# Test Bed For Alibre Design Resources
-# This is not meant for any use other than testing ideas. Use at own risk.
+# Test Bed For Alibre Design
+## This is not meant for any use other than testing ideas related to Alibre Design in a way to quickly iterate in an open way. Use at own risk.
 
-# Any production use resources with be move to another Github org or location outside of this org.
-
-# [This](https://github.com/Test-Bed-For-Alibre-Design-Resources)  will always be a Test Bed.
+## The repos in the org are not meant to be ready to use although they may work or have working content. This is a test bed.
 
 ## Related to Alibre Forum post : https://www.alibre.com/forum/index.php?threads/any-planned-api-and-alibre-script-updates-the-state-of-extensibility-and-modern-software-development-for-alibre.24340/
 
