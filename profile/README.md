@@ -1,5 +1,4 @@
-# Demo Use Only
-## Testbed For Alibre Design
+# Testbed For Alibre Design
 
 Testbed for add-ons, scripting, workflows, techniques, solutions, integrations, templates and anything else.
 
