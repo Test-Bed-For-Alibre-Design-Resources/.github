@@ -6,4 +6,4 @@ Related to Alibre Forum post : https://www.alibre.com/forum/index.php?threads/an
 
 I'm @stepalibre on the Alibre Forum working on Testbed For Alibre Design.
 
-Every repo under this GitHub Organization is a Work-In-Process and is not intended for production uses. A another repo will provide production ready content **TBD**.
+Every repo under this GitHub organization is a **Work-In-Process** and is not intended for production uses. A another repo will provide production ready content **TBD**.
