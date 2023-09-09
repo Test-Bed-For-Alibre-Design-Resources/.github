@@ -6,7 +6,7 @@ Related to Alibre forum post : https://www.alibre.com/forum/index.php?threads/an
 
 I'm @stepalibre on the Alibre Forum working on Testbed For Alibre Design.
 
-Every repo under this GitHub organization is a **Work-In-Process**. Another repo will provide production ready content **TBD**.
+Every repo under this GitHub organization is a **Work-In-Process**.
 
 Questions? Ask me on the forum or create an issue.
 
