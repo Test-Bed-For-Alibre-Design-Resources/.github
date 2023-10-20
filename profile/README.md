@@ -13,10 +13,10 @@ AlibreScriptAPIToCSV
 
 https://docs.google.com/spreadsheets/d/1VBC92HOAkMPXikrkiCeVebNg9V-d-igJlTxoCNYk1BA/edit?usp=sharing
 
-Planning:
+Planning
 
 https://github.com/orgs/Testbed-for-Alibre-Design/projects/2
 
-Disclaimer:
+Disclaimer
 
 Everything on GitHub is licensed under the MIT License. Everything supplied by Alibre, LLC or any third party is covered under their respective licenses.
