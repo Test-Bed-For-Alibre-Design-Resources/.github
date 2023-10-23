@@ -19,4 +19,4 @@ https://github.com/orgs/Testbed-for-Alibre-Design/projects/2
 Disclaimer
 
 Everything on GitHub is licensed under the MIT License. Everything supplied by Alibre, LLC or any third party is covered under their respective licenses.
-All material is continually evolving and may be altered or deleted.
+**All material is continually evolving and may be altered or deleted.**
