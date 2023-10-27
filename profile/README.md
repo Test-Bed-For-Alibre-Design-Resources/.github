@@ -1,6 +1,6 @@
 **Work-In-Progress**
 
-Testbed for add-ons, scripting, workflows, techniques, solutions, integrations, templates, examples, and tools in general.
+Testbed for add-ons, scripting, workflows, techniques, solutions, integrations, templates, examples, and tools.
 
 - For the latest code and updates, contact me. I push to GitHub periodically or as needed.
 
