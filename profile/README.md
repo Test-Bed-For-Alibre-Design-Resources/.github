@@ -38,10 +38,12 @@ Planning
 
 https://github.com/orgs/Testbed-for-Alibre-Design/projects/2
 
-
-
+What is a testbed?
 
 https://en.wikipedia.org/wiki/Testbed
+
+https://chat.openai.com/share/06ff0c86-1952-401f-b382-1595c59c54e1
+
 
 
 
