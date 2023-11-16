@@ -4,7 +4,7 @@ Testbed for add-ons, scripting, workflows, techniques, solutions, integrations, 
 
 Contact @stepalibre on the Alibre Forums. https://www.alibre.com/forum/index.php 
 
-or email: stephen@donetoolkit.com
+or email: testbed-for-alibre-design@donetoolkit.com
 
 AlibreAPIToCSV
 
