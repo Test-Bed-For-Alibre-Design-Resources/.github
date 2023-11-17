@@ -37,5 +37,8 @@ https://chat.openai.com/share/06ff0c86-1952-401f-b382-1595c59c54e1
 
 Disclaimer
 
-Everything on GitHub is licensed under the MIT License. Everything supplied by Alibre, LLC or any third party is covered under their respective licenses.
+Everything on GitHub is licensed under the MIT License. 
+
+All content and branding related to Alibre, Alibre Design, and Alibre Script, including any third-party contributions, are governed by their respective licensing agreements and are the intellectual property of Alibre, LLC.
+
 **All material is continually evolving and may be altered or deleted.**
