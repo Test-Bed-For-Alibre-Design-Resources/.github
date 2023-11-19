@@ -23,11 +23,13 @@ What is a testbed?
 https://chat.openai.com/share/06ff0c86-1952-401f-b382-1595c59c54e1
 
 
+More Testbeds
 
+https://github.com/Testbed-for-SolidWorks
 
+https://github.com/Testbed-for-Solid-Edge
 
-
-
+https://github.com/Testbed-for-Rhino-and-Grasshopper
 
 
 
