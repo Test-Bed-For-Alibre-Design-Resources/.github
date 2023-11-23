@@ -2,8 +2,6 @@
 
 Testbed for add-ons, scripting, workflows, techniques, solutions, integrations, templates, examples, and tools.
 
-or email: testbed-for-alibre-design@donetoolkit.com
-
 AlibreAPIToCSV
 
 https://docs.google.com/spreadsheets/d/1VkQ-bf3qj40WU-yzsjQj-ccy8UCvzg-HJxRd-wKpkgA/edit?usp=sharing
