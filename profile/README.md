@@ -2,6 +2,8 @@
 
 Testbed for add-ons, scripting, workflows, techniques, solutions, integrations, templates, examples, and tools.
 
+Contact @stepalibre on the Alibre Forums. https://www.alibre.com/forum/index.php 
+
 AlibreAPIToCSV
 
 https://docs.google.com/spreadsheets/d/1VkQ-bf3qj40WU-yzsjQj-ccy8UCvzg-HJxRd-wKpkgA/edit?usp=sharing
