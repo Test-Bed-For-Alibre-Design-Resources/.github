@@ -16,11 +16,6 @@ Planning
 
 https://github.com/orgs/Testbed-for-Alibre-Design/projects/2
 
-What is a testbed?
-
-https://chat.openai.com/share/06ff0c86-1952-401f-b382-1595c59c54e1
-
-
 More Testbeds (coming soon!)
 
 https://github.com/Testbed-for-SolidWorks
