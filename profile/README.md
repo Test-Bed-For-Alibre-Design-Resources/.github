@@ -12,14 +12,6 @@ Planning
 
 https://github.com/orgs/Testbed-for-Alibre-Design/projects/2
 
-More Testbeds (coming soon!)
-
-https://github.com/Testbed-for-SolidWorks
-
-https://github.com/Testbed-for-Solid-Edge
-
-https://github.com/Testbed-for-Rhino-and-Grasshopper
-
 Disclaimer
 
 Everything on GitHub is licensed under the MIT License. 
