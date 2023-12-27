@@ -1,7 +1,4 @@
-
-Testbed for add-ons, scripting, workflows, techniques, solutions, integrations, templates, examples, and tools.
-
-Contact @stepalibre on the Alibre Forums. https://www.alibre.com/forum/index.php 
+Testbed for Alibre Design related software projects, including both successes and failures.
 
 AlibreAPIToCSV
 
@@ -22,15 +19,6 @@ https://github.com/Testbed-for-SolidWorks
 https://github.com/Testbed-for-Solid-Edge
 
 https://github.com/Testbed-for-Rhino-and-Grasshopper
-
-Useful GitHub account related to Alibre Design development
-
-https://github.com/bolsover
-
-https://www.alibre.com/forum/index.php?threads/adventures-in-v24-add-on-development.23275/
-
-Thanks David!
-
 
 Disclaimer
 
