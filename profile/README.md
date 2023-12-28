@@ -1,4 +1,4 @@
-Testbed for Alibre Design related software projects, including both successes and failures.
+Testbed for Alibre Design software projects, including both successes and failures.
 
 Disclaimer
 
