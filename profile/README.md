@@ -4,7 +4,7 @@ https://www.alibre.com/
 
 Disclaimer
 
-Everything on GitHub is licensed under the MIT License. 
+Everything is licensed under the MIT License unless noted otherwise.
 
 All content and branding related to Alibre, Alibre Design, and Alibre Script, including any third-party contributions, are governed by their respective licensing agreements and are the intellectual property of Alibre, LLC.
 
